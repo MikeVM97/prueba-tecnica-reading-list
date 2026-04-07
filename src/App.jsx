@@ -252,7 +252,7 @@ export default function App() {
                         type="button"
                         onClick={() => removeBook(book)}
                         className="add-book"
-                        data-testid="add-book"
+                        // data-testid="add-book"
                       >
                         Quitar de la lista de lectura
                       </button>
